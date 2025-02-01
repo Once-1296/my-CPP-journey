@@ -1,0 +1,8 @@
+full_name,age,rollno,marks
+Awwab Wadekar,16,50,95.83
+Krrish Shriyan,16,41,87.83
+Adee Chougle,16,147,77.71
+Shaheer Khan,16,22,67.66
+Schuyler Desa,16,11,96
+Medhansh Desai,16,10,97.4
+Harshil Jain,16,14,81

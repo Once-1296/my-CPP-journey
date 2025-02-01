@@ -1,0 +1,8 @@
+first_name,last_name,age,rollno,marks,password
+Awwab,Wadekar,17,50,97,fgcg7867
+Krrish,Shriyan,16,41,87.83,ydffh45
+Shaheer,Khan,16,22,67.66,fgkyj877
+Schuyler,Desa,16,11,96,fvgyt53r
+Medhansh,Desai,16,10,97.4,6rf65y6v
+Aadil,Naik,17,1,90.67,fgdgchuitf
+Akif,Patel,30,16,92,sdzxfghj
